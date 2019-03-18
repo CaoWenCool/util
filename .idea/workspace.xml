@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ffd99d2-1bd2-4ed5-aea2-ca4c48aecc39" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_9_0_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FileUtil/FileUtil.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FileUtil/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FileUtil/src/main/java/com/demo/fileutils/FileUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MessageUtils/MessageUtils.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MessageUtils/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MessageUtils/src/main/java/com/demo/MessageUtils.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -31,6 +30,7 @@
     <ignored path="$PROJECT_DIR$/AESUtils/target/" />
     <ignored path="$PROJECT_DIR$/DESUtils/target/" />
     <ignored path="$PROJECT_DIR$/FileUtil/target/" />
+    <ignored path="$PROJECT_DIR$/MessageUtils/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,11 +104,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileUtil.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FileUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FileUtil/src/main/java/com/demo/fileutils/FileUtil.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-467">
               <caret line="97" column="43" lean-forward="false" selection-start-line="97" selection-start-column="32" selection-end-line="97" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MessageUtils/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageUtils.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MessageUtils/src/main/java/com/demo/MessageUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2096">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -192,6 +214,8 @@
         <option value="$PROJECT_DIR$/DESUtils/src/main/java/com/demo/desutils.java" />
         <option value="$PROJECT_DIR$/DESUtils/src/main/java/com/demo/DESUtils.java" />
         <option value="$PROJECT_DIR$/FileUtil/src/main/java/com/demo/fileutils/FileUtil.java" />
+        <option value="$PROJECT_DIR$/MessageUtils/src/main/java/com/demo/messageutils.java" />
+        <option value="$PROJECT_DIR$/MessageUtils/src/main/java/com/demo/MessageUtils.java" />
       </list>
     </option>
   </component>
@@ -298,28 +322,37 @@
             <path>
               <item name="util" type="b2602c69:ProjectViewProjectNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="FileUtil" type="462c0819:PsiDirectoryNode" />
+              <item name="MessageUtils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="util" type="b2602c69:ProjectViewProjectNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="FileUtil" type="462c0819:PsiDirectoryNode" />
+              <item name="MessageUtils" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="util" type="b2602c69:ProjectViewProjectNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="FileUtil" type="462c0819:PsiDirectoryNode" />
+              <item name="MessageUtils" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="util" type="b2602c69:ProjectViewProjectNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="FileUtil" type="462c0819:PsiDirectoryNode" />
+              <item name="MessageUtils" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="util" type="b2602c69:ProjectViewProjectNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="MessageUtils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -570,7 +603,7 @@
       <workItem from="1552873167705" duration="17105000" />
       <workItem from="1552896226608" duration="3441000" />
       <workItem from="1552900032813" duration="579000" />
-      <workItem from="1552900622694" duration="5071000" />
+      <workItem from="1552900622694" duration="5293000" />
     </task>
     <task id="LOCAL-00001" summary="上传日期工具类">
       <created>1552873964562</created>
@@ -740,11 +773,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552905302259</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="文件工具类">
+      <created>1552905713350</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1552905713350</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26196000" />
+    <option name="totallyTimeSpent" value="26418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -835,7 +875,8 @@
     <MESSAGE value="二维码生成工具" />
     <MESSAGE value="AES加密" />
     <MESSAGE value="des加密解密" />
-    <option name="LAST_COMMIT_MESSAGE" value="des加密解密" />
+    <MESSAGE value="文件工具类" />
+    <option name="LAST_COMMIT_MESSAGE" value="文件工具类" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -844,14 +885,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/software/apache/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5-sources.jar!/javax/servlet/http/Cookie.java" />
-    <entry file="jar://D:/software/apache/repository/javax/servlet/servlet-api/2.3/servlet-api-2.3-sources.jar!/javax/servlet/http/Cookie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="136" column="4" lean-forward="false" selection-start-line="136" selection-start-column="4" selection-end-line="136" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CookieUtils/CookieUtils.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1248,6 +1281,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-467">
           <caret line="97" column="43" lean-forward="false" selection-start-line="97" selection-start-column="32" selection-end-line="97" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MessageUtils/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MessageUtils/src/main/java/com/demo/MessageUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2096">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

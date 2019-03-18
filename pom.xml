@@ -25,6 +25,7 @@
         <module>AESUtils</module>
         <module>DESUtils</module>
         <module>FileUtil</module>
+        <module>MessageUtils</module>
     </modules>
 
 

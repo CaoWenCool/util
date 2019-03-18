@@ -18,6 +18,7 @@
         <module name="LogUtils" />
         <module name="MatrixToImageWriter" />
         <module name="md5utils" />
+        <module name="MessageUtils" />
         <module name="RandomUtils" />
         <module name="rasutils" />
         <module name="StringUtils" />
@@ -38,6 +39,7 @@
       <module name="LogUtils" target="1.5" />
       <module name="MatrixToImageWriter" target="1.5" />
       <module name="md5utils" target="1.8" />
+      <module name="MessageUtils" target="1.5" />
       <module name="PrompTools" target="1.7" />
       <module name="RandomUtils" target="1.5" />
       <module name="rasutils" target="1.8" />
