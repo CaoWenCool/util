@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/md5utils/pom.xml" />
         <option value="$PROJECT_DIR$/RandomUtils/pom.xml" />
+        <option value="$PROJECT_DIR$/rasutils/pom.xml" />
       </list>
     </option>
   </component>

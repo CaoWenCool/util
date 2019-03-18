@@ -15,6 +15,7 @@
         <module name="LogUtils" />
         <module name="md5utils" />
         <module name="RandomUtils" />
+        <module name="rasutils" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -27,6 +28,7 @@
       <module name="LogUtils" target="1.5" />
       <module name="md5utils" target="1.8" />
       <module name="RandomUtils" target="1.5" />
+      <module name="rasutils" target="1.8" />
       <module name="util" target="1.5" />
     </bytecodeTargetLevel>
   </component>

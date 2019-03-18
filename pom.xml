@@ -17,6 +17,7 @@
         <module>md5utils</module>
         <module>JsonUtil</module>
         <module>RandomUtils</module>
+        <module>rasutils</module>
     </modules>
 
 

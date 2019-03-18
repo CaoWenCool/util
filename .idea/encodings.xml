@@ -3,5 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/dateutil" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/md5utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rasutils" charset="UTF-8" />
   </component>
 </project>
