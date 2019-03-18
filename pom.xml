@@ -26,6 +26,7 @@
         <module>DESUtils</module>
         <module>FileUtil</module>
         <module>MessageUtils</module>
+        <module>PwdUtil</module>
     </modules>
 
 
