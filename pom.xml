@@ -12,6 +12,7 @@
         <module>dateutil</module>
         <module>CookieUtils</module>
         <module>BigDecimalUtils</module>
+        <module>BigDecimalUtils</module>
     </modules>
 
 
