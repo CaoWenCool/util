@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BigDecimalUtils/BigDecimalUtils.iml" filepath="$PROJECT_DIR$/BigDecimalUtils/BigDecimalUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CookieUtils/CookieUtils.iml" filepath="$PROJECT_DIR$/CookieUtils/CookieUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/dateutil/dateutil.iml" filepath="$PROJECT_DIR$/dateutil/dateutil.iml" />
       <module fileurl="file://$PROJECT_DIR$/util.iml" filepath="$PROJECT_DIR$/util.iml" />
     </modules>

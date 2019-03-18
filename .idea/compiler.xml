@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="CookieUtils" />
         <module name="dateutil" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="CookieUtils" target="1.5" />
       <module name="dateutil" target="1.5" />
       <module name="util" target="1.5" />
     </bytecodeTargetLevel>
