@@ -6,7 +6,11 @@
 
     <groupId>com.demo</groupId>
     <artifactId>util</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>dateutil</module>
+    </modules>
 
 
 </project>
