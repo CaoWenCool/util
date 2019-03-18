@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="AESUtils" />
         <module name="BigDecimalUtils" />
         <module name="CookieUtils" />
         <module name="dateutil" />
@@ -23,6 +24,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="AESUtils" target="1.5" />
       <module name="BigDecimalUtils" target="1.5" />
       <module name="CookieUtils" target="1.5" />
       <module name="dateutil" target="1.5" />
@@ -32,6 +34,7 @@
       <module name="LogUtils" target="1.5" />
       <module name="MatrixToImageWriter" target="1.5" />
       <module name="md5utils" target="1.8" />
+      <module name="PrompTools" target="1.7" />
       <module name="RandomUtils" target="1.5" />
       <module name="rasutils" target="1.8" />
       <module name="StringUtils" target="1.5" />
