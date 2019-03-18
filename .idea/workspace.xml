@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ffd99d2-1bd2-4ed5-aea2-ca4c48aecc39" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUtils/WebUtils.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUtils/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebUtils/src/main/java/com/demo/webutils/WebUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_3_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_29.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_29.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MatrixToImageWriter/MatrixToImageWriter.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MatrixToImageWriter/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MatrixToImageWriter/src/main/java/com/demo/matrixToImageWriter/MatrixToImageWriter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -25,6 +28,7 @@
     <ignored path="$PROJECT_DIR$/StringUtils/target/" />
     <ignored path="$PROJECT_DIR$/ValidateUtils/target/" />
     <ignored path="$PROJECT_DIR$/WebUtils/target/" />
+    <ignored path="$PROJECT_DIR$/MatrixToImageWriter/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,16 +38,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ToolAES.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rasutils/src/main/java/com/demo/rasutils/ToolAES.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,11 +83,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebUtils.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WebUtils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebUtils/src/main/java/com/demo/webutils/WebUtils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="426">
-              <caret line="79" column="5" lean-forward="true" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+              <caret line="79" column="5" lean-forward="false" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MatrixToImageWriter/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MatrixToImageWriter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MatrixToImageWriter/src/main/java/com/demo/matrixToImageWriter/MatrixToImageWriter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="94" column="15" lean-forward="true" selection-start-line="94" selection-start-column="15" selection-end-line="94" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -129,18 +145,6 @@
             <state relative-caret-position="141">
               <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StringUtils/src/main/java/com/demo/stringutils/StringUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1007">
-              <caret line="53" column="49" lean-forward="false" selection-start-line="53" selection-start-column="49" selection-end-line="53" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -211,6 +215,7 @@
         <option value="$PROJECT_DIR$/ValidateUtils/src/main/java/com/demo/validateUtils/ValidateUtils.java" />
         <option value="$PROJECT_DIR$/WebUtils/pom.xml" />
         <option value="$PROJECT_DIR$/WebUtils/src/main/java/com/demo/webutils/WebUtils.java" />
+        <option value="$PROJECT_DIR$/MatrixToImageWriter/src/main/java/com/demo/matrixToImageWriter/MatrixToImageWriter.java" />
       </list>
     </option>
   </component>
@@ -314,21 +319,6 @@
               <item name="util" type="b2602c69:ProjectViewProjectNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="util" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="util" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="tomcat-embed-core-8.5.29" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="util" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="tomcat-embed-core-8.5.29" type="70bed36:NamedLibraryElementNode" />
-              <item name="tomcat-embed-core-8.5.29.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -359,7 +349,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ToolAES">
+  <component name="RunManager" selected="Application.MatrixToImageWriter">
     <configuration name="DateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="DateTest" />
@@ -380,14 +370,14 @@
       <module name="dateutil" />
       <envs />
     </configuration>
-    <configuration name="Md5utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MatrixToImageWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.demo.md5utils.*" />
+          <option name="PATTERN" value="com.demo.matrixToImageWriter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.demo.md5utils.Md5utils" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.matrixToImageWriter.MatrixToImageWriter" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -396,7 +386,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="md5utils" />
+      <module name="MatrixToImageWriter" />
       <envs />
     </configuration>
     <configuration name="Md5utilsTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -545,19 +535,20 @@
     </configuration>
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.DateutilApplication" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Md5utils" />
-      <item index="2" class="java.lang.String" itemvalue="Application.DateTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Md5utilsTests" />
-      <item index="4" class="java.lang.String" itemvalue="Spring Boot.RasutilsApplication" />
-      <item index="5" class="java.lang.String" itemvalue="Application.RSAUtils" />
-      <item index="6" class="java.lang.String" itemvalue="Application.ToolAES" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DateTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Md5utilsTests" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.RasutilsApplication" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RSAUtils" />
+      <item index="5" class="java.lang.String" itemvalue="Application.ToolAES" />
+      <item index="6" class="java.lang.String" itemvalue="Application.MatrixToImageWriter" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.ToolAES" />
-        <item index="1" class="java.lang.String" itemvalue="Application.RSAUtils" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Md5utilsTests" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DateTest" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.MatrixToImageWriter" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ToolAES" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RSAUtils" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Md5utilsTests" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DateTest" />
       </list>
     </recent_temporary>
   </component>
@@ -577,7 +568,7 @@
       <workItem from="1552873167705" duration="17105000" />
       <workItem from="1552896226608" duration="3441000" />
       <workItem from="1552900032813" duration="579000" />
-      <workItem from="1552900622694" duration="2887000" />
+      <workItem from="1552900622694" duration="3230000" />
     </task>
     <task id="LOCAL-00001" summary="上传日期工具类">
       <created>1552873964562</created>
@@ -719,11 +710,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552903173978</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="web工具类">
+      <created>1552903523684</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1552903523684</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24012000" />
+    <option name="totallyTimeSpent" value="24355000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -810,7 +808,8 @@
     <MESSAGE value="String工具类" />
     <MESSAGE value="rsa工具类" />
     <MESSAGE value="校验工具类" />
-    <option name="LAST_COMMIT_MESSAGE" value="校验工具类" />
+    <MESSAGE value="web工具类" />
+    <option name="LAST_COMMIT_MESSAGE" value="web工具类" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -819,20 +818,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LogUtils/src/main/java/com/demo/jsonUtils/LogUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/software/apache/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/Logger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11856">
-          <caret line="647" column="16" lean-forward="false" selection-start-line="647" selection-start-column="16" selection-end-line="647" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LogUtils/LogUtils.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1083,7 +1068,7 @@
         <state relative-caret-position="483">
           <caret line="248" column="0" lean-forward="false" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1101,7 +1086,7 @@
         <state relative-caret-position="1007">
           <caret line="53" column="49" lean-forward="false" selection-start-line="53" selection-start-column="49" selection-end-line="53" selection-end-column="49" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1188,7 +1173,25 @@
     <entry file="file://$PROJECT_DIR$/WebUtils/src/main/java/com/demo/webutils/WebUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
-          <caret line="79" column="5" lean-forward="true" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+          <caret line="79" column="5" lean-forward="false" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MatrixToImageWriter/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MatrixToImageWriter/src/main/java/com/demo/matrixToImageWriter/MatrixToImageWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="94" column="15" lean-forward="true" selection-start-line="94" selection-start-column="15" selection-end-line="94" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

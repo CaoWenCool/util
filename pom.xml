@@ -21,6 +21,7 @@
         <module>StringUtils</module>
         <module>ValidateUtils</module>
         <module>WebUtils</module>
+        <module>MatrixToImageWriter</module>
     </modules>
 
 
