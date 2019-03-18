@@ -12,7 +12,6 @@
         <module>dateutil</module>
         <module>CookieUtils</module>
         <module>BigDecimalUtils</module>
-        <module>BigDecimalUtils</module>
         <module>ImportExcelUtils</module>
         <module>LogUtils</module>
     </modules>
