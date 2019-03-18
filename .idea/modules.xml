@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AESUtils/AESUtils.iml" filepath="$PROJECT_DIR$/AESUtils/AESUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/BigDecimalUtils/BigDecimalUtils.iml" filepath="$PROJECT_DIR$/BigDecimalUtils/BigDecimalUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/CookieUtils/CookieUtils.iml" filepath="$PROJECT_DIR$/CookieUtils/CookieUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DESUtils/DESUtils.iml" filepath="$PROJECT_DIR$/DESUtils/DESUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/ImportExcelUtils/ImportExcelUtils.iml" filepath="$PROJECT_DIR$/ImportExcelUtils/ImportExcelUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/JsonUtil/JsonUtil.iml" filepath="$PROJECT_DIR$/JsonUtil/JsonUtil.iml" />
       <module fileurl="file://$PROJECT_DIR$/LogUtils/LogUtils.iml" filepath="$PROJECT_DIR$/LogUtils/LogUtils.iml" />

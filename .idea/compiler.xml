@@ -10,6 +10,7 @@
         <module name="BigDecimalUtils" />
         <module name="CookieUtils" />
         <module name="dateutil" />
+        <module name="DESUtils" />
         <module name="ImportExcelUtils" />
         <module name="JsonUtil" />
         <module name="JsonUtils" />
@@ -28,6 +29,7 @@
       <module name="BigDecimalUtils" target="1.5" />
       <module name="CookieUtils" target="1.5" />
       <module name="dateutil" target="1.5" />
+      <module name="DESUtils" target="1.5" />
       <module name="ImportExcelUtils" target="1.5" />
       <module name="JsonUtil" target="1.5" />
       <module name="JsonUtils" target="1.5" />

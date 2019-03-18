@@ -23,6 +23,7 @@
         <module>WebUtils</module>
         <module>MatrixToImageWriter</module>
         <module>AESUtils</module>
+        <module>DESUtils</module>
     </modules>
 
 
