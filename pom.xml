@@ -14,6 +14,7 @@
         <module>BigDecimalUtils</module>
         <module>ImportExcelUtils</module>
         <module>LogUtils</module>
+        <module>md5utils</module>
     </modules>
 
 

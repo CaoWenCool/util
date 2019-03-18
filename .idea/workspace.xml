@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ffd99d2-1bd2-4ed5-aea2-ca4c48aecc39" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/md5utils/.mvn/wrapper/maven-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/2_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/md5utils/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/md5utils/.mvn/wrapper/MavenWrapperDownloader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/md5utils/.mvn/wrapper/maven-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/md5utils/mvnw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/md5utils/mvnw.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/md5utils/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/md5utils/src/main/java/com/demo/md5utils/Md5utilsApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/md5utils/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/md5utils/src/test/java/com/demo/md5utils/Md5utilsApplicationTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
@@ -23,26 +41,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BigDecimalUtils/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BigDecimalUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BigDecimalUtils/src/main/java/com/demo/BigDecimalUtils/BigDecimalUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3443">
-              <caret line="28" column="7" lean-forward="false" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ImportExcelUtils/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -69,8 +67,28 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            <state relative-caret-position="380">
+              <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/md5utils/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-194">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Md5utilsApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/md5utils/src/main/java/com/demo/md5utils/Md5utilsApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -90,7 +108,7 @@
         <entry file="file://$PROJECT_DIR$/LogUtils/src/main/java/com/demo/jsonUtils/LogUtils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+              <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#476#484#0" expanded="true" />
@@ -174,6 +192,7 @@
         <option value="$PROJECT_DIR$/JsonUtils/pom.xml" />
         <option value="$PROJECT_DIR$/JsonUtils/src/main/java/com/demo/jsonUtils/LogUtils.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/md5utils/src/main/java/com/demo/md5utils/Md5utilsApplication.java" />
       </list>
     </option>
   </component>
@@ -423,7 +442,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552873163953</updated>
-      <workItem from="1552873167705" duration="15988000" />
+      <workItem from="1552873167705" duration="16660000" />
     </task>
     <task id="LOCAL-00001" summary="上传日期工具类">
       <created>1552873964562</created>
@@ -488,11 +507,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552894911636</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="工具类">
+      <created>1552895046644</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1552895046644</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15988000" />
+    <option name="totallyTimeSpent" value="16660000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -541,7 +567,8 @@
     <MESSAGE value="excel工具类" />
     <MESSAGE value="json工具类" />
     <MESSAGE value="日志工具类工具类" />
-    <option name="LAST_COMMIT_MESSAGE" value="日志工具类工具类" />
+    <MESSAGE value="工具类" />
+    <option name="LAST_COMMIT_MESSAGE" value="工具类" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -646,7 +673,7 @@
         <state relative-caret-position="2546">
           <caret line="134" column="23" lean-forward="false" selection-start-line="134" selection-start-column="23" selection-end-line="134" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -753,7 +780,7 @@
     <entry file="file://$PROJECT_DIR$/LogUtils/src/main/java/com/demo/jsonUtils/LogUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#476#484#0" expanded="true" />
@@ -763,10 +790,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/md5utils/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md5utils/src/main/java/com/demo/md5utils/Md5utilsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="380">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
           <folding />
         </state>
       </provider>
