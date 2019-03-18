@@ -11,6 +11,7 @@
         <module name="dateutil" />
         <module name="ImportExcelUtils" />
         <module name="JsonUtils" />
+        <module name="LogUtils" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +20,7 @@
       <module name="dateutil" target="1.5" />
       <module name="ImportExcelUtils" target="1.5" />
       <module name="JsonUtils" target="1.5" />
+      <module name="LogUtils" target="1.5" />
       <module name="util" target="1.5" />
     </bytecodeTargetLevel>
   </component>

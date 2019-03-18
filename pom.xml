@@ -14,7 +14,7 @@
         <module>BigDecimalUtils</module>
         <module>BigDecimalUtils</module>
         <module>ImportExcelUtils</module>
-        <module>JsonUtils</module>
+        <module>LogUtils</module>
     </modules>
 
 

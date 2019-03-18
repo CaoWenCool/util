@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ffd99d2-1bd2-4ed5-aea2-ca4c48aecc39" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JsonUtils/JsonUtils.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JsonUtils/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JsonUtils/src/main/java/com/demo/jsonUtils/JsonUtils.java" />
+    <list default="true" id="5ffd99d2-1bd2-4ed5-aea2-ca4c48aecc39" name="Default" comment="json工具类">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LogUtils/src/main/java/com/demo/jsonUtils/LogUtils.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JsonUtils/src/main/java/com/demo/jsonUtils/JsonUtils.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JsonUtils/JsonUtils.iml" afterPath="$PROJECT_DIR$/LogUtils/LogUtils.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JsonUtils/pom.xml" afterPath="$PROJECT_DIR$/LogUtils/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,6 +19,7 @@
     <ignored path="$PROJECT_DIR$/BigDecimalUtils/target/" />
     <ignored path="$PROJECT_DIR$/ImportExcelUtils/target/" />
     <ignored path="$PROJECT_DIR$/JsonUtils/target/" />
+    <ignored path="$PROJECT_DIR$/LogUtils/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,18 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CookieUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CookieUtils/src/main/java/com/demo/cookieUtils/CookieUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2546">
-              <caret line="134" column="23" lean-forward="false" selection-start-line="134" selection-start-column="23" selection-end-line="134" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BigDecimalUtils/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -81,43 +72,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CookieUtils.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CookieUtils/CookieUtils.iml">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="304">
+              <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/LogUtils/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+            <state relative-caret-position="0">
+              <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JsonUtils.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JsonUtils/src/main/java/com/demo/jsonUtils/JsonUtils.java">
+      <file leaf-file-name="LogUtils.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LogUtils/src/main/java/com/demo/jsonUtils/LogUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="91" column="5" lean-forward="true" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+            <state relative-caret-position="152">
+              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#476#484#0" expanded="true" />
+                <element signature="e#966#974#0" expanded="true" />
+                <element signature="e#1455#1463#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JsonUtils/pom.xml">
+      <file leaf-file-name="Logger.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/software/apache/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/Logger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="481">
+              <caret line="647" column="16" lean-forward="false" selection-start-line="647" selection-start-column="16" selection-end-line="647" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogUtils.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogUtils/LogUtils.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -172,9 +176,10 @@
         <option value="$PROJECT_DIR$/BigDecimalUtils/src/main/java/com/demo/BigDecimalUtils/BigDecimalUtils.java" />
         <option value="$PROJECT_DIR$/ImportExcelUtils/pom.xml" />
         <option value="$PROJECT_DIR$/ImportExcelUtils/src/main/java/com/demo/importExcelUtils/ImportExcelUntils.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/JsonUtils/pom.xml" />
         <option value="$PROJECT_DIR$/JsonUtils/src/main/java/com/demo/jsonUtils/JsonUtils.java" />
+        <option value="$PROJECT_DIR$/JsonUtils/pom.xml" />
+        <option value="$PROJECT_DIR$/JsonUtils/src/main/java/com/demo/jsonUtils/LogUtils.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -278,7 +283,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="settings.github" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.1845444" />
     <property name="last_opened_file_path" value="$USER_HOME$/.m2/repository/org/slf4j/log4j-over-slf4j/1.7.25/log4j-over-slf4j-1.7.25.jar!/" />
@@ -424,7 +429,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552873163953</updated>
-      <workItem from="1552873167705" duration="13850000" />
+      <workItem from="1552873167705" duration="15871000" />
     </task>
     <task id="LOCAL-00001" summary="上传日期工具类">
       <created>1552873964562</created>
@@ -475,11 +480,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552892576287</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="json工具类">
+      <created>1552892869758</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1552892869758</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13850000" />
+    <option name="totallyTimeSpent" value="15871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -490,9 +502,9 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297062" sideWeight="0.5021322" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297062" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -526,7 +538,8 @@
     <MESSAGE value="添加Cookie工具" />
     <MESSAGE value="BigDecimal工具类" />
     <MESSAGE value="excel工具类" />
-    <option name="LAST_COMMIT_MESSAGE" value="excel工具类" />
+    <MESSAGE value="json工具类" />
+    <option name="LAST_COMMIT_MESSAGE" value="json工具类" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -671,26 +684,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CookieUtils/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="27" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JsonUtils/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -706,9 +703,68 @@
     <entry file="file://$PROJECT_DIR$/JsonUtils/src/main/java/com/demo/jsonUtils/JsonUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="490">
-          <caret line="91" column="5" lean-forward="true" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+          <caret line="91" column="5" lean-forward="false" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogUtils/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache/repository/org/projectlombok/lombok/1.18.4/lombok-1.18.4.jar!/lombok/extern/slf4j/Slf4j.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogUtils/LogUtils.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/software/apache/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar!/org/slf4j/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="647" column="16" lean-forward="false" selection-start-line="647" selection-start-column="16" selection-end-line="647" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogUtils/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogUtils/src/main/java/com/demo/jsonUtils/LogUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#476#484#0" expanded="true" />
+            <element signature="e#966#974#0" expanded="true" />
+            <element signature="e#1455#1463#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -765,7 +821,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>util</last-edited>
+          <last-edited>JsonUtils</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
