@@ -20,6 +20,7 @@
         <module>rasutils</module>
         <module>StringUtils</module>
         <module>ValidateUtils</module>
+        <module>WebUtils</module>
     </modules>
 
 
