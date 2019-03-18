@@ -15,6 +15,7 @@
         <module>ImportExcelUtils</module>
         <module>LogUtils</module>
         <module>md5utils</module>
+        <module>JsonUtil</module>
     </modules>
 
 
