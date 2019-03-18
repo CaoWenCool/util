@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="dateutil" />
         <module name="util" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="dateutil" target="1.8" />
       <module name="util" target="1.5" />
     </bytecodeTargetLevel>
   </component>
