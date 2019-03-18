@@ -13,6 +13,7 @@
         <module>CookieUtils</module>
         <module>BigDecimalUtils</module>
         <module>BigDecimalUtils</module>
+        <module>ImportExcelUtils</module>
     </modules>
 
 
