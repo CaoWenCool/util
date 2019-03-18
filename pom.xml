@@ -19,6 +19,7 @@
         <module>RandomUtils</module>
         <module>rasutils</module>
         <module>StringUtils</module>
+        <module>ValidateUtils</module>
     </modules>
 
 

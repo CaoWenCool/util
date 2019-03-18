@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/LogUtils/LogUtils.iml" filepath="$PROJECT_DIR$/LogUtils/LogUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/RandomUtils/RandomUtils.iml" filepath="$PROJECT_DIR$/RandomUtils/RandomUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringUtils/StringUtils.iml" filepath="$PROJECT_DIR$/StringUtils/StringUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValidateUtils/ValidateUtils.iml" filepath="$PROJECT_DIR$/ValidateUtils/ValidateUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/dateutil/dateutil.iml" filepath="$PROJECT_DIR$/dateutil/dateutil.iml" />
       <module fileurl="file://$PROJECT_DIR$/md5utils/md5utils.iml" filepath="$PROJECT_DIR$/md5utils/md5utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/rasutils/rasutils.iml" filepath="$PROJECT_DIR$/rasutils/rasutils.iml" />

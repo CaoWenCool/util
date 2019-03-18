@@ -17,6 +17,7 @@
         <module name="RandomUtils" />
         <module name="rasutils" />
         <module name="StringUtils" />
+        <module name="ValidateUtils" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -32,6 +33,7 @@
       <module name="rasutils" target="1.8" />
       <module name="StringUtils" target="1.5" />
       <module name="util" target="1.5" />
+      <module name="ValidateUtils" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
